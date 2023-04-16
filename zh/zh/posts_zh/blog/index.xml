@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>基于hugo建站 on RD&#39;s Blog</title>
+    <link>https://ruoqi28.github.io/zh/zh/posts_zh/blog/</link>
+    <description>Recent content in 基于hugo建站 on RD&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-ca</language>
+    <lastBuildDate>Thu, 05 May 2022 00:18:23 +0800</lastBuildDate><atom:link href="https://ruoqi28.github.io/zh/zh/posts_zh/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Blog</title>
+      <link>https://ruoqi28.github.io/zh/zh/posts_zh/blog/blog/</link>
+      <pubDate>Thu, 05 May 2022 00:18:23 +0800</pubDate>
+      
+      <guid>https://ruoqi28.github.io/zh/zh/posts_zh/blog/blog/</guid>
+      <description>3sdfsd</description>
+    </item>
+    
+  </channel>
+</rss>
