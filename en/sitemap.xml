@@ -136,6 +136,18 @@
                 href="https://Ruoqi28.github.io/en/about/"
                 />
   </url><url>
+    <loc>https://Ruoqi28.github.io/en/archives/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://Ruoqi28.github.io/zh/archives/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://Ruoqi28.github.io/en/archives/"
+                />
+  </url><url>
     <loc>https://Ruoqi28.github.io/en/categories/</loc>
     <xhtml:link
                 rel="alternate"
@@ -146,18 +158,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://Ruoqi28.github.io/en/categories/"
-                />
-  </url><url>
-    <loc>https://Ruoqi28.github.io/en/series/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://Ruoqi28.github.io/zh/series/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://Ruoqi28.github.io/en/series/"
                 />
   </url><url>
     <loc>https://Ruoqi28.github.io/en/search/</loc>
@@ -172,16 +172,16 @@
                 href="https://Ruoqi28.github.io/en/search/"
                 />
   </url><url>
-    <loc>https://Ruoqi28.github.io/en/archives/</loc>
+    <loc>https://Ruoqi28.github.io/en/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://Ruoqi28.github.io/zh/archives/"
+                href="https://Ruoqi28.github.io/zh/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://Ruoqi28.github.io/en/archives/"
+                href="https://Ruoqi28.github.io/en/series/"
                 />
   </url>
 </urlset>
