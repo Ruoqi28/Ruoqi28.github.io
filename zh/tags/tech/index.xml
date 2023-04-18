@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>tech on RD&#39;s Blog</title>
-    <link>https://www.rd.cn/zh/tags/tech/</link>
+    <link>https://Ruoqi28.github.io/zh/tags/tech/</link>
     <description>Recent content in tech on RD&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-ca</language>
-    <lastBuildDate>Thu, 05 May 2022 00:17:58 +0800</lastBuildDate><atom:link href="https://www.rd.cn/zh/tags/tech/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 05 May 2022 00:17:58 +0800</lastBuildDate><atom:link href="https://Ruoqi28.github.io/zh/tags/tech/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Tech</title>
-      <link>https://www.rd.cn/zh/zh/posts_zh/tech/tech/</link>
+      <link>https://Ruoqi28.github.io/zh/zh/posts_zh/tech/tech/</link>
       <pubDate>Thu, 05 May 2022 00:17:58 +0800</pubDate>
       
-      <guid>https://www.rd.cn/zh/zh/posts_zh/tech/tech/</guid>
+      <guid>https://Ruoqi28.github.io/zh/zh/posts_zh/tech/tech/</guid>
       <description>什么是 Markdown ? Markdown 是一种可以使用普通文本编辑器编写的标记语言, 通过简单的标记语法, 它可以使普通文本内容具有一定的格式。 目录 分级标题 分隔线 超链接 行内式 参考式 自动链接 区块引用 引用的多层嵌套 引用其它要素 锚点 强调 斜体 粗体 删除线 列表 无序列表 有序列表 包含引用的列表 插入图片 图片行内式 图片参考式 表格 代</description>
     </item>
     
